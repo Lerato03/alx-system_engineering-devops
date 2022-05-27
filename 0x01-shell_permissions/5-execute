@@ -1,4 +1,2 @@
-[main 7eb5230] first commit
- 2 files changed, 5 insertions(+), 2 deletions(-)
- create mode 100644 0x01-shell_permissions/5-execute
+#!/bin/bash
 chmod u+x hello
