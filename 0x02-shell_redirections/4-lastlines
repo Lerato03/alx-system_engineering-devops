@@ -1,2 +1,2 @@
-#!/bin/bash
-tail -n 10 /etc/passwd
+[main 4d23c32] last lines
+ 1 file changed, 1 insertion(+), 1 deletion(-)
