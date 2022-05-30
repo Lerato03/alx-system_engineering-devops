@@ -1,2 +1,4 @@
-#!/bin/bash
-0-hello_world
+[main c039157] hello world
+ 2 files changed, 2 insertions(+)
+ create mode 100644 0x02-shell_redirections/.0-hello_world.swp
+ create mode 100644 0x02-shell_redirections/0-hello_world
