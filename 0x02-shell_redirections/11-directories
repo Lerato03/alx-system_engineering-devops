@@ -1,2 +1,2 @@
-#!/bin/bash
-find . -mindepth 1 -type d | wc -l
+[main 176d307] 11 directories
+ 1 file changed, 1 insertion(+), 1 deletion(-)
