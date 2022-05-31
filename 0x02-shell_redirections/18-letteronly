@@ -1,2 +1,2 @@
-#!/bin/bash
-grep -i '^[a-z]' /etc/ssh/sshd_config
+[main ac4ea5b] letter only
+ 1 file changed, 1 insertion(+), 1 deletion(-)
