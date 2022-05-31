@@ -1,2 +1,3 @@
-#!/bin/bash
-cut -d":" -f1,6 /etc/passwd | sort
+[main d694d7a] users and homes
+ 2 files changed, 5 insertions(+), 2 deletions(-)
+ create mode 100755 0x02-shell_redirections/22-users_and_homes

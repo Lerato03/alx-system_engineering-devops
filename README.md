@@ -1,4 +1,3 @@
-[main 3a09c7a] first read me
- 3 files changed, 15 insertions(+), 1 deletion(-)
- create mode 100644 0x00-shell_basics/0-current_working-directory
+[main e2b2fcf] read me
+ 4 files changed, 13 insertions(+), 20 deletions(-)
  rewrite README.md (100%)
