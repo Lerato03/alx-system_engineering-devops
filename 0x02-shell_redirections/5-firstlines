@@ -1,2 +1,3 @@
-#!/bin/bash
-head /etc/passwd
+[main d3e6291] first lines
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ mode change 100644 => 100755 0x02-shell_redirections/5-firstlines
