@@ -1,2 +1,4 @@
-#!/bin/bash
-grep -c 'bin' /etc/passwd
+[main f3bb164] count that word
+ 3 files changed, 5 insertions(+), 2 deletions(-)
+ create mode 100755 0x02-shell_redirections/15-countthatword
+ create mode 100644 0x02-shell_redirections/countthatword
