@@ -1,2 +1,3 @@
-#!/bin/bash
-cd
+[main 802b084] first commit
+ 3 files changed, 4 insertions(+), 5 deletions(-)
+ create mode 100644 0x00-shell_basics/listit
