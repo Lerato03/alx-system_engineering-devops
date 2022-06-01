@@ -1,2 +1,2 @@
-[main 6c3bbe6] second commit
- 1 file changed, 1 insertion(+), 1 deletion(-)
+#!/bin/bash
+ln -s /bin/ls __ls__
