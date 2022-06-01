@@ -1,3 +1,2 @@
-[main 30aa79a] create global variable
- 2 files changed, 4 insertions(+), 2 deletions(-)
- create mode 100755 0x03-shell_variables_expansions/7-create_global_variable
+#!/bin/bash
+export BEST="School"
