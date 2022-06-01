@@ -1,4 +1,2 @@
-[main 7abef26] love exponent breath
- 2 files changed, 5 insertions(+)
- create mode 100755 0x03-shell_variables_expansions/10-love_exponent_breath
- create mode 100644 0x03-shell_variables_expansions/9-divide_and_add
+#!/bin/bash
+echo $((BREATH**LOVE))
