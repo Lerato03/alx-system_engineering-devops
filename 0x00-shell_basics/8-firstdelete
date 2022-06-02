@@ -1,3 +1,2 @@
-[main 72bd852] second commit
- 2 files changed, 6 insertions(+), 2 deletions(-)
- create mode 100755 0x00-shell_basics/8-firstdelete
+#!/bin/bash
+rm /tmp/my_first_directory/betty
