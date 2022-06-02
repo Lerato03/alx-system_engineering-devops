@@ -1,4 +1,2 @@
-[main 5409a08] first commit
- 2 files changed, 5 insertions(+)
- create mode 100644 0x01-shell_permissions/12-dorectory_permissions
- create mode 100755 0x01-shell_permissions/13-change_group
+#!/bin/bash
+chgrp school hello ./
