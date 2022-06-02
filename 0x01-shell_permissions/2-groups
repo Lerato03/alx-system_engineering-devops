@@ -1,3 +1,2 @@
-[main 6a3b8ee] first commit
- 1 file changed, 0 insertions(+), 0 deletions(-)
- mode change 100644 => 100755 0x01-shell_permissions/2-groups
+#!/bin/bash
+groups

@@ -1,3 +1,2 @@
-[main 0f88ab7] first directory
- 2 files changed, 1 insertion(+), 1 deletion(-)
- create mode 100644 0x01-shell_permissions/101-symbolic
+#!/bin/bash
+chown -h vincent:staff ./_hello

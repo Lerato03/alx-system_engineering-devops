@@ -1,2 +1,2 @@
-[main e4d03c0] first commit
- 1 file changed, 1 insertion(+), 1 deletion(-)
+#!/bin/bash
+touch hello

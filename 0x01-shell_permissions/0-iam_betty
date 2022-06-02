@@ -1,2 +1,2 @@
-[main bbd4391] betty
- 1 file changed, 10 insertions(+)
+#!/bin/bash
+su betty
